@@ -27,6 +27,8 @@ social-auth-app-django==5.0.0
 social-auth-core==4.1.0
 svgwrite==1.4.1
 tablib==3.1.0
+werkzeug==0.15.5
+setuptools==45
 
 # Workaround for #7401
 jsonschema==3.2.0

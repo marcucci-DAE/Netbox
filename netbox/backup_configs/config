@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "backup"]
+	url = /opt/netbox/netbox/backup_configs/
+	fetch = +refs/heads/*:refs/remotes/backup/*
+[blame]
+	markUnblamableLines = true
